@@ -1,3 +1,0 @@
-»ùÓÚ andlabs/ui ¿â 
-
-go get github.com/andlabs/ui
