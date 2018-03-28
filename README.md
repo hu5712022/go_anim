@@ -2,8 +2,12 @@
 go_anim
 
 基于 andlabs/ui 库 
+
 go get github.com/andlabs/ui
-该库doc文档 https://godoc.org/github.com/andlabs/ui
+
+该库doc文档 
+
+https://godoc.org/github.com/andlabs/ui
 
 windows 下还需安装配置 gcc 和 msy32
 
